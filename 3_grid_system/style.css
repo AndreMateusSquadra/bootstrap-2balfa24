@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+header{
+    margin: 2vh auto;
+
+}
+header, nav, main{
+    background-color: blanchedalmond;
+    min-height: 10vh;
+
+}
+nav, main{
+    min-height: 82vh;
+
+}
